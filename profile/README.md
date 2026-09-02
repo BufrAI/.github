@@ -28,4 +28,4 @@ enforces - and the discipline behind everything else here.
 
 ---
 
-Contact: jshort@bufrai.com
+Contact: support@bufrai.com
